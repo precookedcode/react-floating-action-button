@@ -1,0 +1,24 @@
+{
+  "name": "@precooked/react-floating-action-button",
+  "version": "1.0.10",
+  "description": "Componente FAB reutilizable para proyectos React",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Roberto Carraro",
+  "license": "ISC",
+  "dependencies": {
+    "@precooked/react-icon": "^1.0.7",
+    "@precooked/react-touchable": "^1.0.5",
+    "@precooked/utils": "^1.0.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "typescript": "^5.6.2"
+  }
+}
