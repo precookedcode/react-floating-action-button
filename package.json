@@ -8,6 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precookedcode/react-floating-action-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/precookedcode/react-floating-action-button/issues"
+  },
+  "homepage": "https://github.com/precookedcode/react-floating-action-button#readme",
   "author": "Roberto Carraro",
   "license": "ISC",
   "dependencies": {

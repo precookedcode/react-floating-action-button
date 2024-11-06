@@ -1,9 +1,9 @@
 
 # FloatingActionButton
 
-A versatile floating action button component for React, designed with customization and flexibility in mind. It supports multiple styles, shadows, icon integration, and responsive sizing.
-
 ![Precooked Logo](https://precookedcode.com/assets/logos/logo-horizontal-dark.svg)
+
+A versatile floating action button component for React, designed with customization and flexibility in mind. It supports multiple styles, shadows, icon integration, and responsive sizing.
 
 ## Installation
 
